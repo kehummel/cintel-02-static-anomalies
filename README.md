@@ -130,3 +130,10 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+
+## Phase 4 Implementation
+
+Since the data was focused on adults, I decided to focus on middle age and late aged adult. I set a minimum age limit of 40 and a maximum age limit of 99, since anyone older than 99 would be an outlier. I set a minimum height of 5 feet (60 inches) as well but there were no anomalies for the height.
+
+There were a total of 8 anomalies; two were above the maximum and 6 were below the minimum.
