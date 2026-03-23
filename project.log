@@ -63,3 +63,55 @@
 2026-03-22 19:15:57 | INFO | P2 | Pipeline executed successfully!
 2026-03-22 19:15:57 | INFO | P2 | ========================
 2026-03-22 19:15:57 | INFO | P2 | END main()
+2026-03-22 20:04:04 | INFO | P2 | === RUN START ===
+2026-03-22 20:04:04 | INFO | P2 | project=CINTEL
+2026-03-22 20:04:04 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-22 20:04:04 | INFO | P2 | python=3.14.3
+2026-03-22 20:04:04 | INFO | P2 | os=Windows 11
+2026-03-22 20:04:04 | INFO | P2 | shell=powershell
+2026-03-22 20:04:04 | INFO | P2 | cwd=.
+2026-03-22 20:04:04 | INFO | P2 | github_actions=False
+2026-03-22 20:04:04 | INFO | P2 | ========================
+2026-03-22 20:04:04 | INFO | P2 | START main()
+2026-03-22 20:04:04 | INFO | P2 | ========================
+2026-03-22 20:04:04 | INFO | P2 | ROOT_DIR = .
+2026-03-22 20:04:04 | INFO | P2 | DATA_FILE = data\phone_use_data_hummel.csv
+2026-03-22 20:04:04 | INFO | P2 | OUTPUT_FILE = artifacts\phone_anomalies_hummel.csv
+2026-03-22 20:04:04 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-22 20:04:04 | INFO | P2 | Loaded 15000 phone use data
+2026-03-22 20:04:04 | INFO | P2 | Studying phone use in adults to find anomalies...
+2026-03-22 20:04:04 | INFO | P2 | MIN_REASONABLE_X_VALUE: 21.0 in years
+2026-03-22 20:04:04 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 90.0 in minutes
+2026-03-22 20:04:04 | INFO | P2 | MAX_REASONABLE_Z_VALUE: 10.0 in hours
+2026-03-22 20:04:04 | INFO | P2 | Count of anomalies found: 4848
+2026-03-22 20:04:04 | INFO | P2 | Wrote anomalies file: C:\Repos\Continuouse_Intelligence\cintel-02-static-anomalies\artifacts\phone_anomalies_hummel.csv
+2026-03-22 20:04:04 | INFO | P2 | ========================
+2026-03-22 20:04:04 | INFO | P2 | Pipeline executed successfully!
+2026-03-22 20:04:04 | INFO | P2 | ========================
+2026-03-22 20:04:04 | INFO | P2 | END main()
+2026-03-22 20:06:15 | INFO | P2 | === RUN START ===
+2026-03-22 20:06:15 | INFO | P2 | project=CINTEL
+2026-03-22 20:06:15 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-22 20:06:15 | INFO | P2 | python=3.14.3
+2026-03-22 20:06:15 | INFO | P2 | os=Windows 11
+2026-03-22 20:06:15 | INFO | P2 | shell=powershell
+2026-03-22 20:06:15 | INFO | P2 | cwd=.
+2026-03-22 20:06:15 | INFO | P2 | github_actions=False
+2026-03-22 20:06:15 | INFO | P2 | ========================
+2026-03-22 20:06:15 | INFO | P2 | START main()
+2026-03-22 20:06:15 | INFO | P2 | ========================
+2026-03-22 20:06:15 | INFO | P2 | ROOT_DIR = .
+2026-03-22 20:06:15 | INFO | P2 | DATA_FILE = data\phone_use_data_hummel.csv
+2026-03-22 20:06:15 | INFO | P2 | OUTPUT_FILE = artifacts\phone_anomalies_hummel.csv
+2026-03-22 20:06:15 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-22 20:06:15 | INFO | P2 | Loaded 15000 phone use data
+2026-03-22 20:06:15 | INFO | P2 | Studying phone use in adults to find anomalies...
+2026-03-22 20:06:15 | INFO | P2 | MIN_REASONABLE_X_VALUE: 21.0 in years
+2026-03-22 20:06:15 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 120.0 in minutes
+2026-03-22 20:06:15 | INFO | P2 | MAX_REASONABLE_Z_VALUE: 10.0 in hours
+2026-03-22 20:06:15 | INFO | P2 | Count of anomalies found: 1048
+2026-03-22 20:06:15 | INFO | P2 | Wrote anomalies file: C:\Repos\Continuouse_Intelligence\cintel-02-static-anomalies\artifacts\phone_anomalies_hummel.csv
+2026-03-22 20:06:15 | INFO | P2 | ========================
+2026-03-22 20:06:15 | INFO | P2 | Pipeline executed successfully!
+2026-03-22 20:06:15 | INFO | P2 | ========================
+2026-03-22 20:06:15 | INFO | P2 | END main()

@@ -137,3 +137,10 @@ git push -u origin main
 Since the data was focused on adults, I decided to focus on middle age and late aged adult. I set a minimum age limit of 40 and a maximum age limit of 99, since anyone older than 99 would be an outlier. I set a minimum height of 5 feet (60 inches) as well but there were no anomalies for the height.
 
 There were a total of 8 anomalies; two were above the maximum and 6 were below the minimum.
+
+
+## Phase 5 Implementation
+
+I found a data set looking at data on adults and their screen time and how it affected their sleep and stress. I marked anomalies as anyone under 21 years old. I marked as an anomaly anyone that spent over 2 hours before bed on their phone. Because if they are spending over two hours on it, it is not before bed. It may be the activity that precedes sleeping, but it is its own activity at that point. I also marked sleeping over 10 hours as an anomaly, because most adults don't sleep 10 hours.
+
+This produced 1,048 anomalies.
